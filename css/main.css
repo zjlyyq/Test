@@ -1,0 +1,10 @@
+#root{
+	background-color: #fff312;
+	height: 1600dp;
+	width: 2560dp;
+}
+#banner{
+	background: "images/banner_02.jpg";
+	height: 360dp;
+	width: 1200dp;
+}
